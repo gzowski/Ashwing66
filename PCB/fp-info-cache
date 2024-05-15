@@ -1,4 +1,4 @@
-23297521285644361
+23294260765463839
 2.54mmheadercastelation
 PinHeader_1x20_P2.54mm_Vertical_castelated
 Through hole straight pin header, 1x20, 2.54mm pitch, single row
@@ -20,20 +20,6 @@ XTAL500X320X130N
 0
 2
 2
-AcheronLibrary
-arcticLabel
-
-
-0
-0
-0
-AcheronLibrary
-arcticLabelMask
-
-
-0
-0
-0
 Alps_Only
 ALPS-1.5U
 
