@@ -14244,7 +14244,7 @@
 				)
 			)
 		)
-		(property "Value" "schottky"
+		(property "Value" "schottky 1N5817W"
 			(at 81.915 36.1696 0)
 			(effects
 				(font
@@ -22636,7 +22636,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 335.28 58.42 270)
+		(at 328.93 49.53 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22644,7 +22644,7 @@
 		(dnp no)
 		(uuid "9354a18c-6b63-411f-962e-4bf487fa02af")
 		(property "Reference" "R9"
-			(at 336.55 54.61 0)
+			(at 330.2 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22653,7 +22653,7 @@
 			)
 		)
 		(property "Value" "62ohm 0402"
-			(at 332.74 60.96 90)
+			(at 326.39 52.07 90)
 			(effects
 				(font
 					(size 0.762 0.762)
@@ -22662,7 +22662,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 335.28 56.642 90)
+			(at 328.93 47.752 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22671,7 +22671,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 335.28 58.42 0)
+			(at 328.93 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22680,7 +22680,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 335.28 58.42 0)
+			(at 328.93 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22689,7 +22689,7 @@
 			)
 		)
 		(property "LCSC" " "
-			(at 335.28 58.42 0)
+			(at 328.93 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25382,7 +25382,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cb658bfb-bb44-442b-af68-cdf8168ed728")
 		(property "Reference" "FB1"
 			(at 118.0592 19.939 90)
@@ -25393,7 +25392,7 @@
 			)
 		)
 		(property "Value" "FerriteBead 0402"
-			(at 118.0592 22.479 90)
+			(at 107.188 17.272 90)
 			(effects
 				(font
 					(size 1.27 1.27)

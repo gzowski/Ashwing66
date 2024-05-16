@@ -1,0 +1,107 @@
+Comment,Designator,Footprint,LCSC
+330r,R8,R_0805_2012Metric,C105876
+2.2uF 0402,"C10,C102",C_0402_1005Metric,C12530
+100nf 0402,"C11,C13,C14,C15,C16,C18,C5,C6,C7,C8",C_0402_1005Metric,C1525
+10uf 0402,"C1,C4,CBP1",C_0402_1005Metric,C15525
+22pf 0402,"C19,C2",C_0402_1005Metric,C1555
+RP2040,U3,RP2040-QFN-56,C2040
+0805L050WR,F1,Fuse_0805_2012Metric,C207022
+100K 0402,R7,R_0402_1005Metric,C25741
+10K 0402,R2,R_0402_1005Metric,C25744
+5.1K 0402,"R5,R6",R_0805_2012Metric,C25905
+W25Q16JVUXIQ,FLASH1,SON-8-1EP_3x2mm_P0.5mm_EP1.4x1.6mm,C2843335
+0.1uf,C9,C_0805_2012Metric,C2976900
+Button,J2,SW_Push_SPST_NO_Alps_SKRK,C318884
+TYPE-C-31-M-14,USB1,USB_C_TYPE-C-31-M-14,C319148
+TSA343G00-250J2,RSW1,SW_Push_SPST_NO_Alps_SKRK,C354946
+D,"D0,D1,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D2,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D3,D30,D31,D32,D33,D34,D35,D36,D37,D38,D39,D4,D40,D41,D42,D43,D44,D45,D46,D47,D48,D49,D5,D50,D51,D52,D53,D54,D55,D56,D57,D58,D59,D6,D60,D61,D62,D63,D64,D65,D66,D67,D68,D69,D7,D70,D71,D72,D73,D74,D75,D76,D8,D9",D_SOD-123F,C402213
+SOT-23-5 5.5V 3.3V 500mA,U1,SOT-23-5,C47773
+62ohm 0402,R9,R_0402_1005Metric,C482221
+1uf 0402,C3,C_0402_1005Metric,C52923
+3225_4P 12MHz,Y1,Crystal_SMD_3225-4Pin_3.2x2.5mm,C5916243
+LED,DLED1,D_0402_1005Metric,C688877
+schottky,D100,D_SOD-123,C727113
+Blank,K76,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K75,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K74,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K73,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K72,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K71,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K70,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K69,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K68,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K67,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K66,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K65,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K64,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K63,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K62,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K61,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K60,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K59,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K58,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K57,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K56,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K55,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K54,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K53,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K52,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K51,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K50,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K49,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K48,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K47,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K46,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K45,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K44,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K42,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K41,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K40,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K39,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K38,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K37,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K36,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K35,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K34,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K33,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K32,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K31,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K30,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K29,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K28,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K27,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K26,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K25,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K24,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K23,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K22,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K21,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K20,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K19,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K18,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K17,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K16,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K15,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K14,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K13,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K12,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K11,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K10,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K9,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K8,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K7,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K6,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K5,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K4,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K3,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K2,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K1,SW_Cherry_Choc3_MX_1.00u_PCB,
+Blank,K0,SW_Cherry_Choc3_MX_1.00u_PCB,
+MountingHole,H3,MountingHole_2.2mm_M2_Pad-Mod,
+Conn_01x03_Male,J5,PinHeader_1x03_P1.00mm_Vertical,
+1K 0402,R11,R_0402_1005Metric,
+27r 0402 resistor,R3,R_0402_1005Metric,
+FerriteBead 0402,FB1,R_0402_1005Metric,
+1K 0402,R1,R_0402_1005Metric,
+27r 0402 resistor,R4,R_0402_1005Metric,
+Blank,K43,SW_Cherry_Choc3_MX_1.00u_PCB,
