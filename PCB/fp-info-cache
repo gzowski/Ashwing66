@@ -1,4 +1,4 @@
-23294260765463839
+23296019501210911
 2.54mmheadercastelation
 PinHeader_1x20_P2.54mm_Vertical_castelated
 Through hole straight pin header, 1x20, 2.54mm pitch, single row
@@ -561,6 +561,13 @@ Cherry MX keyswitch 1.00u PCB
 2
 Button_Switch_Keyboard
 SW_Cherry_Choc4_MX_1.00u_PCB
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
 0
