@@ -63,7 +63,7 @@
       39,
       40
     ],
-    "visible_layers": "ffcffff_ffffffff",
+    "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -73,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Phoenixia2.kicad_prl",
+    "filename": "Phoenixia3.kicad_prl",
     "version": 3
   },
   "project": {
