@@ -1,4 +1,4 @@
-23311468217961865
+23313184808660688
 2.54mmheadercastelation
 PinHeader_1x20_P2.54mm_Vertical_castelated
 Through hole straight pin header, 1x20, 2.54mm pitch, single row
@@ -62868,6 +62868,13 @@ QFN DFN_QFN
 57
 MCU_RaspberryPi_and_Boards
 RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
+MCU_RaspberryPi_and_Boards
+RPi_Pico_SMD_TH2
 Through hole straight pin header, 2x20, 2.54mm pitch, double rows
 Through hole pin header THT 2x20 2.54mm double row
 0
