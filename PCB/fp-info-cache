@@ -1,4 +1,4 @@
-23313184808660688
+23315144216845205
 2.54mmheadercastelation
 PinHeader_1x20_P2.54mm_Vertical_castelated
 Through hole straight pin header, 1x20, 2.54mm pitch, single row
@@ -53579,6 +53579,13 @@ D_SOD-123F
 2
 Diode_SMD
 D_SOD-123F_2
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+Diode_SMD
+D_SOD-123F_3
 D_SOD-123F
 D_SOD-123F
 0
