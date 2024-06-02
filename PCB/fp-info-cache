@@ -1,4 +1,4 @@
-23315144216845205
+23320296043761438
 2.54mmheadercastelation
 PinHeader_1x20_P2.54mm_Vertical_castelated
 Through hole straight pin header, 1x20, 2.54mm pitch, single row
@@ -622,6 +622,20 @@ Cherry MX keyswitch 1.00u PCB
 0
 2
 1
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_LED_3D2_CUTOUT4
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+1
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_LED_3D2_CUTOUT_CLEAN
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+0
+0
 Button_Switch_Keyboard
 SW_Cherry_Choc_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -87939,6 +87953,13 @@ HOLE_M2_TH
 
 0
 0
+0
+Stencils
+HOLE_M2_TH_SCREW
+
+
+0
+1
 0
 Stencils
 HRO-TYPE-C-31-M-12-Assembly

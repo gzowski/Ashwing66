@@ -63,7 +63,7 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "fffffff_7fffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -73,7 +73,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "Ashwing66_topplate.kicad_prl",
+    "filename": "Ashwing66_3dprint.kicad_prl",
     "version": 3
   },
   "project": {
