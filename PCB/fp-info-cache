@@ -1,4 +1,4 @@
-23320296043761438
+23334035250551426
 2.54mmheadercastelation
 PinHeader_1x20_P2.54mm_Vertical_castelated
 Through hole straight pin header, 1x20, 2.54mm pitch, single row
@@ -636,6 +636,27 @@ Cherry MX keyswitch 1.00u PCB
 0
 0
 0
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_LED_3D2_CUTOUT_CLEAN_2
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+0
+0
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_LED_3D2_CUTOUT_CLEAN_Lines
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+0
+0
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_LED_3D2_MX
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+8
+4
 Button_Switch_Keyboard
 SW_Cherry_Choc_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -87836,6 +87857,13 @@ Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
 2
 2
 Stencils
+Diode_SOD123_LILY
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+2
+2
+Stencils
 Diode_SOD123_dual_sided
 Diode, DO-41, SOD81, Horizontal, RM 10mm,
 Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
@@ -87848,6 +87876,34 @@ Diode, DO-41, SOD81, Horizontal, RM 10mm,
 Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
 0
 8
+2
+Stencils
+Diode_THT_SOD123F2
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+6
+2
+Stencils
+Diode_THT_SOD123F_FIXED
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+4
+2
+Stencils
+Diode_THT_SOD123F_FIXED2
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+4
+2
+Stencils
+Diode_THT_SOD123F_FIXED3
+Diode, DO-41, SOD81, Horizontal, RM 10mm,
+Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
+0
+4
 2
 Stencils
 Diode_TH_SOD123
