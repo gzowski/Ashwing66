@@ -2,7 +2,7 @@
    "name":"Ashwing66",
    "vendorId":"0x7372",
    "productId":"0x6F64",
-   "menus": ["qmk_rgblight"],
+   "menus": ["qmk_rgb_matrix"],
    "matrix":{
       "rows":5,
       "cols":16
