@@ -1,6 +1,6 @@
 # Ashwing66 Winged Unibody Split Keyboard
 66 Key keyboard with both MX and Choc V1 support.
-![Ashwing66-rev1](https://use42-13960900-ac37-11ea-811e-65db2948ca73.jpg)
+![Ashwing66-rev1](https://github.com/gzowski/Ashwing66/blob/main/images/layouta.jpg)
 
 ## Features
 * 66 Key layout 
