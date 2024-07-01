@@ -519,7 +519,7 @@
       "plot": "Gerber Files/Top Plate/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Phoenixia66.step",
+      "step": "TopPlate.step",
       "svg": "",
       "vrml": "EnvKB105-RPI.wrl"
     },
