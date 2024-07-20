@@ -2,6 +2,8 @@
 66 Key keyboard with both MX and Choc V1 support.
 ![Ashwing66-rev1](https://github.com/gzowski/Ashwing66/blob/main/images/layouta.jpg)
 
+PCB available for purchase via my Etsy page: https://www.etsy.com/uk/listing/1765077057/ashwing66-mechanical-keyboard-pcb
+
 ## Features
 * 66 Key layout 
 * 67 Key for optional rotary encoder or additional key in the center
