@@ -10,7 +10,9 @@ PCB available for purchase via my Etsy page: https://www.etsy.com/uk/listing/176
 * Per key LED's for Row 1 and centre cluster keys
 * Winged design for ergonomics at 15° angle.
 * RP2040 Microcontroller (Pi Pico)
-* QMK Firmware with VIA configurations
+* QMK Firmware with VIA configuration
+* Pre-compiled firmware with VIA and experimental "snap tap" support within Firmware folder.
+** "Snap tap" Enable / disable "Lower + Esc" "LED Green On/LED Red Off"
 
 ## Parts
 
