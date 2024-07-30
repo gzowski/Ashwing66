@@ -12,7 +12,7 @@ PCB available for purchase via my Etsy page: https://www.etsy.com/uk/listing/176
 * RP2040 Microcontroller (Pi Pico)
 * QMK Firmware with VIA configuration
 * Pre-compiled firmware with VIA and experimental "snap tap" support within Firmware folder.
-** "Snap tap" Enable / disable "Lower + Esc" "LED Green On/LED Red Off"
+  * "Snap tap" Enable / disable "Lower + Esc" "LED Green On/LED Red Off"
 
 ## Parts
 
