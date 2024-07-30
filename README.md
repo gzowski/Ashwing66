@@ -12,6 +12,8 @@ PCB available for purchase via my Etsy page: https://www.etsy.com/uk/listing/176
 * Winged design for ergonomics at 15° angle.
 * RP2040 Microcontroller (Pi Pico)
 * QMK Firmware with VIA compatibility
+  * QMK: https://config.qmk.fm/#/ashwing66/LAYOUT_5x16
+  * VIA: https://usevia.app/
 * Pre-compiled firmware with VIA and experimental "snap tap" support within Firmware folder.
   * "Snap tap" Enable / disable "Lower + Esc" "LED Green On/LED Red Off"
 
@@ -62,5 +64,4 @@ PCB available for purchase via my Etsy page: https://www.etsy.com/uk/listing/176
        - Reconnect the keyboard once the USB storage disappears.
 
 ## Default Key Layout
-
 ![Layers](https://github.com/gzowski/Ashwing66/blob/main/images/layers.jpg)
