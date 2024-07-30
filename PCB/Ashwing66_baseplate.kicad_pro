@@ -516,10 +516,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "Gerber Files/Base Plate/",
+      "plot": "../../../../",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "baseplate.step",
+      "step": "../../../../trim.step",
       "svg": "",
       "vrml": "EnvKB105-RPI.wrl"
     },

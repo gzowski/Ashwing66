@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 0.825,
-          "width": 1.7
+          "height": 1.7,
+          "width": 3.5
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -481,7 +481,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Ashwing66_hard.kicad_pro",
+    "filename": "spacer.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -516,10 +516,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "Gerber Files/Main PCB/",
+      "plot": "../../../../",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "main.step",
+      "step": "../../../../cutout.step",
       "svg": "",
       "vrml": "EnvKB105-RPI.wrl"
     },

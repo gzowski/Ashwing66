@@ -516,7 +516,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "./",
-      "plot": "Gerber Files/Top Plate/",
+      "plot": "../../../../",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "TopPlate.step",

@@ -8,7 +8,9 @@
 * Per key LED's for Row 1 and centre cluster keys
 * Winged design for ergonomics at 15° angle.
 * RP2040 Microcontroller (Pi Pico)
-* QMK Firmware with VIA configurations
+* QMK Firmware with VIA support
+* Pre-compiled firmware with VIA and experimental "snap tap" support within Firmware folder.
+** "Snap tap" Enable / disable "Lower + Esc" "LED Green On/LED Red Off" 
 
 ## Parts
 
@@ -35,7 +37,8 @@
 1. Solder PICO micro controller to the top of the PCB facing up (components on top).
   - Next solder the diodes of choice to the back of the PCB, these can be either surface mount or through-hole diodes
     - Take note of diode direction.
-    - If using through-hole diodes you'll need to snip the excess from the legs on the other side.
+    - If using through-hole diodes you'll need to snip the excess from 
+the legs on the other side.
 2. If you are installing LED's under the 18 switches then you can do this now.
    - The LED's can be dropped into place from the rear of the board. 
    - Ensure that the notch on the GND pin lines up with the triangle marker on the PCB.
