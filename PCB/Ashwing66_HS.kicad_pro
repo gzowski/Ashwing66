@@ -38,8 +38,8 @@
         "other_text_upright": false,
         "pads": {
           "drill": 0.0,
-          "height": 1.6,
-          "width": 0.82
+          "height": 0.825,
+          "width": 1.7
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -492,7 +492,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Ashwing66_hard.kicad_pro",
+    "filename": "Ashwing66_HS.kicad_pro",
     "version": 3
   },
   "net_settings": {

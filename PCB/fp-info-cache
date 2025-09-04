@@ -1,4 +1,4 @@
-23351220949842614
+22984599374757444
 2.54mmheadercastelation
 PinHeader_1x20_P2.54mm_Vertical_castelated
 Through hole straight pin header, 1x20, 2.54mm pitch, single row
@@ -546,6 +546,13 @@ battery CR-3032 coin cell vertical
 2
 2
 Button_Switch_Keyboard
+PlateFP_
+
+
+0
+0
+0
+Button_Switch_Keyboard
 SW_Cherry_Choc2_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
@@ -630,6 +637,13 @@ Cherry MX keyswitch 1.00u PCB
 2
 1
 Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_LED_3D2_CUTOUT_2
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+1
+1
+Button_Switch_Keyboard
 SW_Cherry_Choc5_MX_1.00u_PCB_LED_3D2_CUTOUT_CLEAN
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
@@ -700,6 +714,48 @@ Cherry MX keyswitch 1.00u PCB
 4
 2
 Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_circle
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_circle_3d
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_circle_3d_1.25u
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+Button_Switch_Keyboard
+SW_Cherry_Choc5_MX_1.00u_PCB_circle_3d_1u
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+4
+2
+Button_Switch_Keyboard
+SW_Cherry_Choc_LED
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+6
+4
+Button_Switch_Keyboard
+SW_Cherry_Choc_LED_sw
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+6
+4
+Button_Switch_Keyboard
 SW_Cherry_Choc_MX_1.00u_PCB
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
@@ -708,6 +764,125 @@ Cherry MX keyswitch 1.00u PCB
 2
 Button_Switch_Keyboard
 SW_Cherry_MX_1.00u_PCB
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_HOTSWAP
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+6
+6
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_HOTSWAP_Details
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_HOTSWAP_Details_cutout
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+0
+0
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_HOTSWAP_Details_rounded
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+0
+0
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_HOTSWAP_Details_rounded_stab
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+0
+0
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_HOTSWAP_Details_rounded_stab_joined
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+0
+0
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_HOTSWAP_Details_sc
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_HOTSWAP_NOLED
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_LABEL
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_LED
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+6
+4
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_LED_3D
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+6
+4
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_LED_lines_LED
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+6
+4
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_LED_lines_LED_label
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+6
+6
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_LED_withmodel
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+6
+4
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_Lines
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+2
+2
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_NOLED
+Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 1.00u PCB
+0
+6
+4
+Button_Switch_Keyboard
+SW_Cherry_MX_1.00u_PCB_withmodels
 Cherry MX keyswitch, 1.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 1.00u PCB
 0
@@ -770,6 +945,27 @@ Cherry MX keyswitch 2.00u PCB
 2
 2
 Button_Switch_Keyboard
+SW_Cherry_MX_2.00u_PCB_no_mid
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+0
+0
+Button_Switch_Keyboard
+SW_Cherry_MX_2.00u_PCB_none
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+Button_Switch_Keyboard
+SW_Cherry_MX_2.00u_PCB_none_label
+Cherry MX keyswitch, 2.00u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.00u PCB
+0
+2
+2
+Button_Switch_Keyboard
 SW_Cherry_MX_2.00u_Plate
 Cherry MX keyswitch, 2.00u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
 Cherry MX keyswitch 2.00u plate
@@ -797,6 +993,13 @@ Cherry MX keyswitch 2.25u PCB
 0
 2
 2
+Button_Switch_Keyboard
+SW_Cherry_MX_2.25u_PCB_nomid
+Cherry MX keyswitch, 2.25u, PCB mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
+Cherry MX keyswitch 2.25u PCB
+0
+0
+0
 Button_Switch_Keyboard
 SW_Cherry_MX_2.25u_Plate
 Cherry MX keyswitch, 2.25u, plate mount, http://cherryamericas.com/wp-content/uploads/2014/12/mx_cat.pdf
@@ -909,6 +1112,13 @@ Matias ALPS keyswitch ISO enter
 0
 2
 2
+Button_Switch_Keyboard
+Untitled
+
+
+0
+0
+0
 Button_Switch_SMD
 Nidec_Copal_CAS-120A
 Slide Switch, SMD, Nidec CAS series, https://www.nidec-components.com/e/catalog/switch/cas.pdf
@@ -53669,6 +53879,13 @@ D_SOD-123F
 2
 2
 Diode_SMD
+D_SOD-123F_upd
+D_SOD-123F
+D_SOD-123F
+0
+2
+2
+Diode_SMD
 D_SOD-128
 D_SOD-128 (CFP5 SlimSMAW), https://assets.nexperia.com/documents/outline-drawing/SOD128.pdf
 D_SOD-128
@@ -54592,6 +54809,34 @@ Vishay KBU rectifier diode bridge
 0
 4
 4
+Diode_THT
+Diode_remake
+
+
+0
+2
+2
+Diode_THT
+Diode_remake2
+
+
+0
+2
+2
+Diode_THT
+Diode_remake3
+
+
+0
+2
+2
+Diode_THT
+Diode_remake3_3d
+
+
+0
+2
+2
 Display
 AG12864E
 STN/FSTN LCD 128x64 dot https://www.digchip.com/datasheets/parts/datasheet/1121/AG-12864E-pdf.php
@@ -86926,6 +87171,27 @@ rotary encoder
 7
 6
 Rotary_Encoder
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MX
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+Rotary_Encoder
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MX_label
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+Rotary_Encoder
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MX_label2
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+Rotary_Encoder
 RotaryEncoder_Alps_EC11E_Vertical_H20mm
 Alps rotary encoder, EC12E... without switch (pins are dummy), vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
 rotary encoder
@@ -87632,1847 +87898,6 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 0
 48
 48
-Stencils
-1pin_conn
-Resitance 3 pas
-R
-0
-1
-1
-Stencils
-3_Pin_Jumper
-
-
-0
-9
-3
-Stencils
-4pin35mmAudio
-
-
-0
-6
-6
-Stencils
-42Keebs-icon-10mm-Mask
-
-
-0
-0
-0
-Stencils
-42Keebs-icon-10mm-SilkS
-
-
-0
-0
-0
-Stencils
-42Keebs-icon-12mm-Mask
-
-
-0
-0
-0
-Stencils
-42Keebs-icon-12mm-SilkS
-
-
-0
-0
-0
-Stencils
-42Keebs-icon-15mm-Mask
-
-
-0
-0
-0
-Stencils
-42Keebs-icon-15mm-SilkS
-
-
-0
-0
-0
-Stencils
-AST1109MLTRQ
-Murata Buzzer http://www.murata.com/en-us/api/pdfdownloadapi?cate=&partno=PKMCS0909E4000-R1
-Murata Buzzer Beeper
-0
-2
-2
-Stencils
-AT90USB1286_TQFP_14mm
-64-Lead Plastic Thin Quad Flatpack (PF) - 14x14x1 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-64
-64
-Stencils
-ATMEGA32U4-AU
-
-
-0
-44
-44
-Stencils
-ArduinoProMicro
-
-
-0
-24
-24
-Stencils
-ArduinoProMicro-BackSide
-
-
-0
-24
-24
-Stencils
-ArduinoProMicro-Mini-USB
-
-
-0
-24
-24
-Stencils
-ArduinoProMicro-Mini-USB-No-Text
-
-
-0
-24
-24
-Stencils
-ArduinoProMicro-Mini-USB-ZigZag
-
-
-0
-24
-24
-Stencils
-ArduinoProMicro-TopSide
-
-
-0
-24
-24
-Stencils
-ArduinoProMicro-ZigZag
-
-
-0
-24
-24
-Stencils
-CNC_Encoder
-
-
-0
-3
-1
-Stencils
-CUI_SJ-43614-SMT
-
-
-0
-4
-4
-Stencils
-C_0402
-Capacitor SMD 0402, reflow soldering, AVX (see smccp.pdf)
-capacitor 0402
-0
-2
-2
-Stencils
-C_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Stencils
-Cherry-MX-Low-Profile
-
-
-0
-2
-2
-Stencils
-Crystal_SMD_2520-4pin_2.5x2.0mm
-SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package
-SMD SMT crystal
-0
-4
-4
-Stencils
-Crystal_SMD_3225-4pin_3.2x2.5mm
-SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
-SMD SMT crystal
-0
-4
-4
-Stencils
-DFN-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm
-8-Lead Plastic Dual Flat, No Lead Package (8MA2) - 2x3x0.6 mm Body (http://ww1.microchip.com/downloads/en/DeviceDoc/20005010F.pdf)
-DFN 0.5
-0
-9
-9
-Stencils
-D_0805
-
-
-0
-2
-2
-Stencils
-D_DO-35_SOD27_P5.08mm_Horizontal
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-2
-2
-Stencils
-D_DO-35_SOD27_P5.08mm_Horizontal_smaller
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-2
-2
-Stencils
-D_SOD-323
-SOD-323
-SOD-323
-0
-2
-2
-Stencils
-D_SOD123
-
-
-0
-2
-2
-Stencils
-D_SOD123F
-
-
-0
-2
-2
-Stencils
-Diode
-
-
-0
-2
-2
-Stencils
-Diode-Hybrid-Back
-
-
-0
-6
-2
-Stencils
-Diode-dual
-
-
-0
-10
-2
-Stencils
-Diode-hybrid-3pad
-
-
-0
-6
-2
-Stencils
-Diode_Long
-
-
-0
-2
-2
-Stencils
-Diode_SOD123
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-2
-2
-Stencils
-Diode_SOD123_LILY
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-2
-2
-Stencils
-Diode_SOD123_dual_sided
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-2
-2
-Stencils
-Diode_THT_SOD123F
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-8
-2
-Stencils
-Diode_THT_SOD123F2
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-6
-2
-Stencils
-Diode_THT_SOD123F_FIXED
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-4
-2
-Stencils
-Diode_THT_SOD123F_FIXED2
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-4
-2
-Stencils
-Diode_THT_SOD123F_FIXED3
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-4
-2
-Stencils
-Diode_THT_SOD123F_FIXED4
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-4
-2
-Stencils
-Diode_THT_SOD123F_FIXED5
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-4
-2
-Stencils
-Diode_THT_SOD123F_FIXED6
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-4
-2
-Stencils
-Diode_TH_SOD123
-Diode, DO-41, SOD81, Horizontal, RM 10mm,
-Diode, DO-41, SOD81, Horizontal, RM 10mm, 1N4007, SB140,
-0
-4
-2
-Stencils
-Elite-C
-
-
-0
-29
-29
-Stencils
-Elite-C-ZigZag
-
-
-0
-29
-29
-Stencils
-Elite-C-castellated-24pin
-
-
-0
-24
-24
-Stencils
-Elite-C-castellated-24pin-holes
-
-
-0
-48
-24
-Stencils
-Elite-C-castellated-29pin
-
-
-0
-29
-29
-Stencils
-Elite-C-castellated-29pin-holes
-
-
-0
-58
-29
-Stencils
-Epson_TSX-3225
-
-
-0
-4
-4
-Stencils
-Frood_PinHeader_2x13+5_P2.54mm_Dual
-Through hole straight pin header, 1x12, 2.54mm pitch, single row
-Through hole pin header THT 1x12 2.54mm single row
-0
-62
-31
-Stencils
-Frood_PinHeader_2x13+5_P2.54mm_Dual_VAligned
-Through hole straight pin header, 1x12, 2.54mm pitch, single row
-Through hole pin header THT 1x12 2.54mm single row
-0
-56
-31
-Stencils
-Frood_PinHeader_2x13+5_P2.54mm_Labels_Top
-Through hole straight pin header, 1x12, 2.54mm pitch, single row
-Through hole pin header THT 1x12 2.54mm single row
-0
-31
-31
-Stencils
-Frood_PinHeader_2x13+5_P2.54mm_No_Labels
-Through hole straight pin header, 1x12, 2.54mm pitch, single row
-Through hole pin header THT 1x12 2.54mm single row
-0
-31
-31
-Stencils
-Fuse_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Stencils
-HOLE_M2
-
-
-0
-0
-0
-Stencils
-HOLE_M2_TH
-
-
-0
-0
-0
-Stencils
-HOLE_M2_TH_SCREW
-
-
-0
-1
-0
-Stencils
-HRO-TYPE-C-31-M-12-Assembly
-
-
-0
-16
-13
-Stencils
-Header-6-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Stencils
-Header-12-Pin-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Stencils
-Header-12-Pin-ZigZag-Square
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-12
-12
-Stencils
-I2C_Breakout
-Through hole straight pin header, 1x04, 2.54mm pitch, single row
-Through hole pin header THT 1x04 2.54mm single row
-0
-4
-4
-Stencils
-ICSP-Header
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Stencils
-ICSP-Header-ZigZag
-Through hole straight socket strip, 1x06, 2.54mm pitch, single row
-Through hole socket strip THT 1x06 2.54mm single row
-0
-6
-6
-Stencils
-ICSP_1.27mm
-Through hole straight pin header, 2x03, 1.27mm pitch, double rows
-Through hole pin header THT 2x03 1.27mm double row
-0
-6
-6
-Stencils
-JPC2
-
-
-0
-3
-2
-Stencils
-JUMPER_SMD_2DUB
-
-
-0
-12
-2
-Stencils
-Jumper
-
-
-0
-2
-2
-Stencils
-KLJ-1102
-
-
-0
-2
-2
-Stencils
-Kailh-PG1350-1.5u
-
-
-0
-4
-4
-Stencils
-Kailh-PG1350-1.25u
-
-
-0
-4
-4
-Stencils
-Kailh-PG1350-1.25u-LED-flip
-
-
-0
-4
-4
-Stencils
-Kailh-PG1350-1u
-
-
-0
-4
-4
-Stencils
-Kailh-PG1350-1u-No-Clickhole
-
-
-0
-4
-4
-Stencils
-Kailh-PG1350-1u-NoLED
-
-
-0
-2
-2
-Stencils
-Kailh-PG1350-1u-reversible
-
-
-0
-5
-4
-Stencils
-Kailh-PG1350-1u-reversible-No-Clickhole
-
-
-0
-5
-4
-Stencils
-Kailh-PG1350-1u-reversible-flip
-
-
-0
-5
-4
-Stencils
-Kailh-PG1350-2.5u
-
-
-0
-4
-4
-Stencils
-Kailh-PG1350-2u
-
-
-0
-4
-4
-Stencils
-Kailh-PG1350-2u-NoLED
-
-
-0
-2
-2
-Stencils
-Kailh-PG1350-2u-Vert-NoLED
-
-
-0
-2
-2
-Stencils
-Kailh_MX_Socket-2u-swapped-pads-reversed-stabilizer
-
-
-0
-2
-2
-Stencils
-Kailh_MX_Socket-plus-EC11-encoder
-
-
-0
-11
-6
-Stencils
-Kailh_MX_Socket-swapped-pads
-
-
-0
-2
-2
-Stencils
-Kailh_MX_Socket-swapped-pads-RGB
-
-
-0
-2
-2
-Stencils
-Kailh_socket_PG1350
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-Stencils
-Kailh_socket_PG1350_1.5u
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-Stencils
-Kailh_socket_PG1350_1.5u_sw_cap
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-Stencils
-Kailh_socket_PG1350_1u
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-Stencils
-Kailh_socket_PG1350_1u_sw_cap
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-Stencils
-Kailh_socket_PG1350_1u_sw_cap_home
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-Stencils
-Kailh_socket_PG1350_2u_Stabilizer
-
-
-0
-2
-2
-Stencils
-Kailh_socket_PG1350_2u_Stabilizer_sw_cap
-
-
-0
-2
-2
-Stencils
-Kailh_socket_PG1350_with_cutouts
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-2
-2
-Stencils
-Kailh_socket_PG1511+PG1350
-Kailh "Choc" PG1350 keyswitch socket mount
-kailh,choc
-0
-4
-2
-Stencils
-LED
-
-
-0
-3
-3
-Stencils
-LED_3mm
-
-
-0
-2
-2
-Stencils
-LQFP-48_7x7mm_Pitch0.5mm
-48 LEAD LQFP 7x7mm (see MICREL LQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Stencils
-Low-Profile-Choc-MX
-
-
-0
-5
-4
-Stencils
-MD_Diode
-
-
-0
-2
-2
-Stencils
-MJ-4PP-9
-
-
-0
-8
-4
-Stencils
-MJ-4PP-9_rev2
-
-
-0
-8
-4
-Stencils
-MX-Alps-Choc-1U
-
-
-0
-8
-4
-Stencils
-MX-Alps-Choc-1U-No-Clickhole
-
-
-0
-8
-4
-Stencils
-MX-Alps-Choc-1U-NoLED
-
-
-0
-6
-2
-Stencils
-MX-Alps-Choc-1U-NoLED-Alt
-
-
-0
-6
-2
-Stencils
-MX-Alps-Choc-2U
-
-
-0
-8
-4
-Stencils
-MX-Alps-Choc-2U-StabFlip
-
-
-0
-8
-4
-Stencils
-MX-Alps_DMask
-
-
-0
-2
-1
-Stencils
-MX-Alps_FMask
-
-
-0
-2
-1
-Stencils
-MX-Alps_FMask-2u
-
-
-0
-2
-1
-Stencils
-MX-Alps_Switch_Cutout
-
-
-0
-2
-1
-Stencils
-MX-Alps_Switch_Cutout-1u_1.25u
-
-
-0
-0
-0
-Stencils
-MX-Alps_Switch_Cutout-1u_1.25u-3u-wide
-
-
-0
-0
-0
-Stencils
-MX-Alps_Switch_Cutout-1u_2u
-
-
-0
-2
-1
-Stencils
-MX-Alps_Switch_Cutout-3u-wide
-
-
-0
-0
-0
-Stencils
-MX-Choc-1U-NoLED
-
-
-0
-4
-2
-Stencils
-MX-Choc-1U-NoLED-opposite
-
-
-0
-4
-2
-Stencils
-MX-Choc-2U-ReversedStabilizers-NoLED
-
-
-0
-4
-2
-Stencils
-MX-Choc-2U-ReversedStabilizers-opposite-NoLED
-
-
-0
-4
-2
-Stencils
-MX-Quad
-MX/Alps footprint
-
-0
-8
-2
-Stencils
-MX_FLIP_HOLES
-MXALPS
-MXALPS
-0
-4
-2
-Stencils
-MX_FMask
-
-
-0
-2
-1
-Stencils
-MX_FMask-2u
-
-
-0
-3
-1
-Stencils
-MX_FMask-2u-with-cutout
-
-
-0
-2
-1
-Stencils
-MX_FMask-with-cutout
-
-
-0
-2
-1
-Stencils
-MX_LED
-
-
-0
-2
-2
-Stencils
-MX_PG1350-Under_FLIP_HOLES_
-MXALPS
-MXALPS
-0
-7
-2
-Stencils
-MX_PG1350-Under_FLIP_HOLES_18mm
-MXALPS
-MXALPS
-0
-7
-2
-Stencils
-MX_PG1350-Under_FLIP_HOLES_27mm
-MXALPS
-MXALPS
-0
-7
-2
-Stencils
-MX_PG1350_FLIP_HOLES
-MXALPS
-MXALPS
-0
-7
-2
-Stencils
-MX_PG1350_FLIP_HOLES_18mm
-MXALPS
-MXALPS
-0
-7
-2
-Stencils
-MX_PG1350_FLIP_HOLES_27mm
-MXALPS
-MXALPS
-0
-7
-2
-Stencils
-MX_Socket_18mm
-
-
-0
-4
-2
-Stencils
-MX_Stabilizer_Cutout
-
-
-0
-0
-0
-Stencils
-MX_Stabilizer_Cutout-2u
-
-
-0
-0
-0
-Stencils
-MX_Switch_Cutout
-
-
-0
-0
-0
-Stencils
-MX_Switch_Mod_Cutout
-
-
-0
-0
-0
-Stencils
-MY_SIL-4
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-Stencils
-Mini-USB
-
-
-0
-7
-6
-Stencils
-Molex-216990_GCT-USB45xx_HRO-TYPE-C-31-M-13x
-
-
-0
-20
-17
-Stencils
-Molex-216990_GCT-USB45xx_HRO-TYPE-C-31-M-13x-PiMicro
-
-
-0
-16
-13
-Stencils
-MountingHole
-
-
-0
-1
-0
-Stencils
-MountingThroughHole_3.8mm_For_3mm_Standoff
-Mounting Hole 3.5mm
-mounting hole 3.5mm
-0
-1
-1
-Stencils
-NovelKeys_Kailh_Big_Series_Switch
-
-
-0
-2
-2
-Stencils
-OLED_4Pin
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-Stencils
-OLED_v2.1
-Connecteur 6 pins
-CONN DEV
-0
-4
-4
-Stencils
-PJ-320A
-
-
-0
-4
-4
-Stencils
-PinHeader_1x05_P2.54mm_Vertical_Plain
-Through hole straight pin header, 1x05, 2.54mm pitch, single row
-Through hole pin header THT 1x05 2.54mm single row
-0
-5
-5
-Stencils
-PinHeader_1x12_P2.54mm_Vertical_Plain
-Through hole straight pin header, 1x12, 2.54mm pitch, single row
-Through hole pin header THT 1x12 2.54mm single row
-0
-12
-12
-Stencils
-PinHeader_1x13_P2.54mm_Vertical_Plain
-Through hole straight pin header, 1x12, 2.54mm pitch, single row
-Through hole pin header THT 1x12 2.54mm single row
-0
-13
-13
-Stencils
-PinHeader_1x13_P2.54mm_Vertical_ProMicro-Left
-Through hole straight pin header, 1x12, 2.54mm pitch, single row
-Through hole pin header THT 1x12 2.54mm single row
-0
-13
-13
-Stencils
-PinHeader_1x13_P2.54mm_Vertical_ProMicro-Right
-Through hole straight pin header, 1x12, 2.54mm pitch, single row
-Through hole pin header THT 1x12 2.54mm single row
-0
-13
-13
-Stencils
-PinHeader_2x13+5_P2.54mm_Vertical_Elite-C
-Through hole straight pin header, 1x12, 2.54mm pitch, single row
-Through hole pin header THT 1x12 2.54mm single row
-0
-31
-31
-Stencils
-Pin_Header_Straight_2x03_Pitch1.00mm
-Through hole straight pin header, 2x03, 1.00mm pitch, double rows
-Through hole pin header THT 2x03 1.00mm double row
-0
-6
-6
-Stencils
-Powered_by_QMK-20mm-Mask
-
-
-0
-0
-0
-Stencils
-Powered_by_QMK-20mm-SilkS
-
-
-0
-0
-0
-Stencils
-Powered_by_QMK-25mm-Mask
-
-
-0
-0
-0
-Stencils
-Powered_by_QMK-25mm-SilkS
-
-
-0
-0
-0
-Stencils
-Powered_by_QMK_Fw-20mm-Mask
-
-
-0
-0
-0
-Stencils
-Powered_by_QMK_Fw-20mm-SilkS
-
-
-0
-0
-0
-Stencils
-Powered_by_QMK_Fw-25mm-Mask
-
-
-0
-0
-0
-Stencils
-Powered_by_QMK_Fw-25mm-SilkS
-
-
-0
-0
-0
-Stencils
-ProMicro-USB-C
-
-
-0
-24
-24
-Stencils
-ProMicro_rev
-
-
-0
-24
-24
-Stencils
-ProMicro_rev2
-
-
-0
-48
-24
-Stencils
-QFN-44-1EP_7x7mm_Pitch0.5mm
-UK Package; 44-Lead Plastic QFN (7mm x 7mm); (see Linear Technology QFN_44_05-08-1763.pdf)
-QFN 0.5
-0
-60
-45
-Stencils
-RESISTOR
-
-
-0
-2
-2
-Stencils
-RESISTOR_mini
-Resitance 3 pas
-R
-0
-2
-2
-Stencils
-RGB-6028
-
-
-0
-4
-4
-Stencils
-RGB_3528_Blue_Notch
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Stencils
-RGB_3528_Blue_Notch-MX
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Stencils
-RGB_3528_Blue_Notch-MX-Flip
-RGB LED 3.2x2.7mm http://www.avagotech.com/docs/AV02-0610EN
-LED 3227
-0
-4
-4
-Stencils
-RP2040-QFN-56
-QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-70
-57
-Stencils
-R_0402
-Resistor SMD 0402, reflow soldering, Vishay (see dcrcw.pdf)
-resistor 0402
-0
-2
-2
-Stencils
-R_0603
-SMT, 1608, 0603
-SMT, 1608, 0603
-0
-2
-2
-Stencils
-R_0805
-SMT, 2012, 0805
-SMT, 2012, 0805
-0
-2
-2
-Stencils
-Resistor
-
-
-0
-2
-2
-Stencils
-Resistor-Compact
-
-
-0
-2
-2
-Stencils
-Resistor-Compact-1-side
-
-
-0
-2
-2
-Stencils
-Resistor-Hybrid
-
-
-0
-10
-2
-Stencils
-Resistor-Hybrid-Back
-
-
-0
-6
-2
-Stencils
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-Stencils
-RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm-for-MX
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-7
-6
-Stencils
-RotaryEncoder_EC11
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Stencils
-RotaryEncoder_EC11-no-legs
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Stencils
-RotaryEncoder_EC11B-Horizontal-Dual
-
-
-0
-7
-5
-Stencils
-RotaryEncoder_EC11_Nonplated
-Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
-rotary encoder
-0
-5
-5
-Stencils
-SK6812-MINI-E
-
-
-0
-4
-4
-Stencils
-SM0805D
-
-
-0
-2
-2
-Stencils
-SOIC-8_3.9x4.9mm_Pitch1.27mm
-8-Lead Plastic Small Outline (SN) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-8
-8
-Stencils
-SOIC-8_5.23x5.23mm_P1.27mm
-SOIC, 8 Pin (http://www.winbond.com/resource-files/w25q32jv%20revg%2003272018%20plus.pdf#page=68), generated with kicad-footprint-generator ipc_gullwing_generator.py
-SOIC SO
-0
-8
-8
-Stencils
-SOT-23
-SOT-23, Standard
-SOT-23
-0
-3
-3
-Stencils
-SOT-23-6
-6-pin SOT-23 package
-SOT-23-6
-0
-6
-6
-Stencils
-SOT-23_Handsoldering
-SOT-23, Handsoldering
-SOT-23
-0
-3
-3
-Stencils
-SOT-143B
-SOT143B
-
-0
-4
-4
-Stencils
-SOT-363_SC-70-6
-SOT-363, SC-70-6
-SOT-363 SC-70-6
-0
-6
-6
-Stencils
-SW_SPST_3x3
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-Stencils
-SW_SPST_TL3342
-Low-profile SMD Tactile Switch, https://www.e-switch.com/system/asset/product_line/data_sheet/165/TL3342.pdf
-SPST Tactile Switch
-0
-4
-2
-Stencils
-SW_Tactile_SPST_Angled_MJTP1117
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-4
-2
-Stencils
-SW_Tactile_SPST_Angled_MJTP1117-no-mount
-tactile switch SPST right angle, PTS645VL39-2 LFS
-tactile switch SPST angled PTS645VL39-2 LFS C&K Button
-0
-2
-2
-Stencils
-SinglePad
-
-
-0
-1
-1
-Stencils
-SolderJumper
-
-
-0
-4
-3
-Stencils
-SolderJumper-3_P1.3mm_Bridged12_RoundedPad0.8x1mm
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-net tie solder jumper bridged
-0
-3
-3
-Stencils
-SolderJumperLeft
-
-
-0
-3
-3
-Stencils
-SolderJumperPair
-
-
-0
-6
-3
-Stencils
-SolderJumperRight
-
-
-0
-3
-3
-Stencils
-SolderJumperSet
-
-
-0
-12
-6
-Stencils
-SolderJumperSets
-
-
-0
-6
-2
-Stencils
-SolidCopper
-Mounting Hole 2.2mm, M2
-mounting hole 2.2mm m2
-0
-2
-1
-Stencils
-StripLED
-
-
-0
-6
-3
-Stencils
-TACT_SWITCH_TVBP06
-
-
-0
-2
-2
-Stencils
-TQFP-32_7x7mm_Pitch0.8mm
-32-Lead Plastic Thin Quad Flatpack (PT) - 7x7x1.0 mm Body, 2.00 mm [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-32
-32
-Stencils
-TQFP-44_10x10mm_Pitch0.8mm
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-44
-44
-Stencils
-TQFP-48_7x7mm_Pitch0.5mm
-48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-Stencils
-TQFP-QFN-44_Combined
-44-Lead Plastic Thin Quad Flatpack (PT) - 10x10x1.0 mm Body [TQFP] (see Microchip Packaging Specification 00000049BS.pdf)
-QFP 0.8
-0
-104
-45
-Stencils
-TRRS-PJ-320A
-
-
-0
-4
-4
-Stencils
-TRRS-PJ-320A-dual
-
-
-0
-5
-4
-Stencils
-TRRS-PJ-320A-no-Fmask
-
-
-0
-8
-4
-Stencils
-TRRS-PJ-320D
-
-
-0
-4
-4
-Stencils
-TRRS-PJ-605
-
-
-0
-6
-6
-Stencils
-TRRS-PJ-606
-
-
-0
-6
-6
-Stencils
-TRRS_JACK_MJ4PP9
-
-
-0
-8
-4
-Stencils
-TRRS_Jack
-
-
-0
-6
-6
-Stencils
-TRRS_Jack-one-sided
-
-
-0
-4
-4
-Stencils
-TRRS_Jumper
-
-
-0
-6
-6
-Stencils
-TYPE-C-31-M-14
-Korean Hroparts Elec, Power only USB connector supporting up to 3A
-
-0
-20
-17
-Stencils
-TYPE-C-31-M-14-PiMicro
-Korean Hroparts Elec, Power only USB connector supporting up to 3A
-
-0
-16
-13
-Stencils
-Teensy_2.0
-
-
-0
-31
-31
-Stencils
-Triple-Dual-1u-LED
-
-
-0
-21
-4
-Stencils
-Triple-Dual-1u-LED-flip
-
-
-0
-21
-4
-Stencils
-Triple-Dual-2u-LED
-
-
-0
-21
-4
-Stencils
-Triple-Dual-2u-LED-stab-flip
-
-
-0
-21
-4
-Stencils
-USB-C-12-Pin-MidMount
-
-
-0
-16
-13
-Stencils
-USB-Mini-B_ LCSC-C46398
-
-
-0
-9
-6
-Stencils
-USB-Mini-B_2leg
-
-
-0
-7
-6
-Stencils
-USB_C_GCT_USB4085-offset-pads
-
-
-0
-20
-17
-Stencils
-USB_miniB_HandSolder
-http://www.hirose.co.jp/cataloge_hp/e24000019.pdf
-USB miniB hirose
-0
-9
-9
-Stencils
-USON-8_4x3mm_P0.8mm
-WSON, 8 Pin (https://www.ti.com/lit/ds/symlink/lp2987.pdf#page=26), generated with kicad-footprint-generator ipc_noLead_generator.py
-WSON NoLead
-0
-12
-9
-Stencils
-VIA-0.6mm
-
-
-0
-1
-1
-Stencils
-WS2812B
-
-
-0
-4
-4
-Stencils
-WS2812B-4020
-
-
-0
-4
-4
-Stencils
-YS-SK6812MINI-E
-
-
-0
-4
-4
-Stencils
-ZD_DO-35_SOD27_P5.08mm_Horizontal_smaller
-Diode, DO-35_SOD27 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=4*2mm^2, , http://www.diodes.com/_files/packages/DO-35.pdf
-Diode DO-35_SOD27 series Axial Horizontal pin pitch 7.62mm  length 4mm diameter 2mm
-0
-2
-2
-Stencils
-breakaway-hole
-
-
-0
-0
-0
-Stencils
-breakaway-hole-big
-
-
-0
-0
-0
-Stencils
-breakaway-mousebites
-
-
-0
-0
-0
-Stencils
-jumper_data
-
-
-0
-3
-2
-Stencils
-jumper_smd_2dub
-
-
-0
-2
-2
-Stencils
-osh-logo
-
-
-0
-0
-0
-Stencils
-oshw
-
-
-0
-0
-0
-Stencils
-polyfuse_5.1mm
-
-
-0
-2
-2
-Stencils
-qmk
-
-
-0
-0
-0
-Stencils
-solder_jumper
-
-
-0
-2
-2
 Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
@@ -89606,6 +88031,13 @@ Logo FCC certification
 0
 0
 0
+Symbol
+Frood_PinHeader_2x13+5_P2.54mm_Labels_Top_LESS_PINS
+Through hole straight pin header, 1x12, 2.54mm pitch, single row
+Through hole pin header THT 1x12 2.54mm single row
+0
+24
+24
 Symbol
 KiCad-Logo2_5mm_Copper
 KiCad Logo
@@ -90055,6 +88487,13 @@ Logo Symbol OSHW
 0
 0
 Symbol
+PTS526
+
+
+0
+4
+4
+Symbol
 Polarity_Center_Negative_6mm_SilkScreen
 Polarity Logo, Center Negative
 Logo Polarity Center Negative
@@ -90180,6 +88619,20 @@ Logo RoHS
 0
 0
 0
+Symbol
+SK6812-MINI-E2
+
+
+0
+4
+3
+Symbol
+SK6812-MINI-E_2
+
+
+0
+4
+3
 Symbol
 Symbol_Attention_CopperTop_Big
 Symbol, Attention, Copper Top, Big,
@@ -90478,6 +88931,34 @@ Symbol
 WEEE-Logo_28.1x40mm_SilkScreen
 Waste Electrical and Electronic Equipment Directive
 Logo WEEE
+0
+0
+0
+Symbol
+pad_LED
+SMD 2x-dip-switch SPST , Slide, row spacing 8.61 mm (338 mils), body size 9.78x7.26mm (see e.g. https://www.ctscorp.com/wp-content/uploads/204.pdf), SMD
+SMD DIP Switch SPST Slide 8.61mm 338mil SMD
+0
+3
+1
+Symbol
+silkscreensteno
+
+
+0
+0
+0
+Symbol
+silkscreensteno2
+
+
+0
+0
+0
+Symbol
+silkscreensteno3
+
+
 0
 0
 0

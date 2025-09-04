@@ -1,6 +1,7 @@
 # Ashwing66 Winged Unibody Split Keyboard
 66 Key keyboard with both MX and Choc V1 support.
 ![Ashwing66-rev1](https://github.com/gzowski/Ashwing66/blob/main/images/layouta.jpg)
+![Ashwing66-rev1](https://github.com/gzowski/Ashwing66/blob/main/images/completed.jpg)
 
 PCB available for purchase via my Etsy page: https://www.etsy.com/uk/listing/1765077057/ashwing66-mechanical-keyboard-pcb
 
@@ -10,9 +11,17 @@ PCB available for purchase via my Etsy page: https://www.etsy.com/uk/listing/176
 * Per key LED's for Row 1 and centre cluster keys
 * Winged design for ergonomics at 15° angle.
 * RP2040 Microcontroller (Pi Pico)
+<<<<<<< HEAD
 * QMK Firmware with VIA support
 * Pre-compiled firmware with VIA and experimental "snap tap" support within Firmware folder.
 ** "Snap tap" Enable / disable "Lower + Esc" "LED Green On/LED Red Off" 
+=======
+* QMK Firmware with VIA compatibility
+  * QMK: https://config.qmk.fm/#/ashwing66/LAYOUT_5x16
+  * VIA: https://usevia.app/
+* Pre-compiled firmware with VIA and experimental "snap tap" support within Firmware folder.
+  * "Snap tap" Enable / disable "Lower + Esc" "LED Green On/LED Red Off"
+>>>>>>> 9c17c4a1c710aafea303e0aeed37a7a769a5664c
 
 ## Parts
 
@@ -62,5 +71,4 @@ the legs on the other side.
        - Reconnect the keyboard once the USB storage disappears.
 
 ## Default Key Layout
-
 ![Layers](https://github.com/gzowski/Ashwing66/blob/main/images/layers.jpg)
